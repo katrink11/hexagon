@@ -19,6 +19,6 @@ https://intuit.ru/studies/courses/3507/749/lecture/27407
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iguides.ru%2Fmain%2Fapps%2Fnew_hexagon_bitva_za_territoriyu%2F&psig=AOvVaw1YK1hXSlDtU8szMP6e4WNh&ust=1685871354349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDHtKvmpv8CFQAAAAAdAAAAABAE">
 </picture>
 
